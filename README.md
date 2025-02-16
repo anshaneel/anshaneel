@@ -1,4 +1,4 @@
-
+![Hi I'm Ansh](2025-02-16-Hi-I-m-Ansh-.gif)
 ### Hi there 👋
 
 <!--
@@ -78,5 +78,3 @@ print("In addition to writing code I like to fix cars, I own and operate a Deale
 **Stay tuned for more groundbreaking projects!**
 
 ---
-
-
